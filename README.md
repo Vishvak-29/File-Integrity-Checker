@@ -18,6 +18,10 @@ A Python-based File Integrity Checker that generates and verifies SHA-256 hashes
 ```bash
 python fileintegritychecker.py
 ```
+## Output
+Screenshot 2026-06-30 231728.png
+Screenshot 2026-06-30 232420.png
+Screenshot 2026-06-30 232420.png
 
 ## Author
 
